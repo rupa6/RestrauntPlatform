@@ -1,0 +1,7 @@
+Feedback from me:
+    Validator should be pluggable
+    Typed Exception
+
+Feedback for me:
+    Respository handling seperate
+    strategy pattern --> {Builder pattern, extraction chain of responsibility}
